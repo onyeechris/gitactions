@@ -1,4 +1,4 @@
-name hello_world.yml
+name: hello_world
 
 on:
   push:
